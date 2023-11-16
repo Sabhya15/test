@@ -1,4 +1,4 @@
-#-------------import library and set seed----------
+#-------------import library and set seed----------w
 library(doParallel)
 library(foreach)
 library(nycflights13)
